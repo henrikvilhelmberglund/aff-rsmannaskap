@@ -129,3 +129,65 @@ finns alla möjliga företag:
 - Gå via andra konsultbolag
 
 - Medverka på rätt forum
+
+## Hur förbereder du dig inför en intervju?
+
+- Anpassa klädsel efter bolag (men chill)
+
+- Känner du någon som jobbar/jobbat på företag du sökt? Stämning, företagskultur etc.
+
+(kan hitta annat företag som ger mer lön men samma tider)
+
+- Kom i tid till mötet
+
+- Ta med ditt CV
+
+- Handslag och ögonkontakt (inte slappt)
+
+- Första intrycket
+
+- Håll dig till frågan, lyssna och svara på frågorna
+
+- Tänk på att vara trevlig mot alla du möter på företaget för att de kan vara med i beslutet
+
+## Vilka frågor kan komma på intervjun?
+
+- varför sökte du tjänsten?
+
+- vem är du och vilka positioner i arbetslivet har du haft
+
+- vad motiverar dig?
+
+- vad gör dig stressad? förbered en situation
+
+- vilka är dina styrkor respektive förbättringsområden utifrån ett arbetsperspektiv
+
+- vad kan du tillföra företaget?
+
+- om du inte förstår frågan - be dem förklara vad de menar
+
+bättre att fråga än att gissa vad de menar
+
+## Vilka frågor kan du ställe i en intervju?
+
+läs på om företaget och kom på några frågor
+
+- hur många anställda?
+
+(kolla presentation för mer)
+
+pusha att ha kontakt med personer i branschen
+
+## Vad kan göras efter intervjutillfället
+
+- innan du avslutar intervjun, fråga hur processen framåt ser ut
+
+- skicka kort mail och tacka för intervjun
+
+- om du inte hört något efter utsatt datum, ring eller maila din kontaktperson
+
+- lägg till personen i ert nätverk
+
+## LinkedIn
+
+kan vara research till företag att kolla på LinkedIn-sidan för företaget
