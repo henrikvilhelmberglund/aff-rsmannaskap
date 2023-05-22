@@ -191,3 +191,7 @@ pusha att ha kontakt med personer i branschen
 ## LinkedIn
 
 kan vara research till företag att kolla på LinkedIn-sidan för företaget
+
+## Innan LIA
+
+kolla igenom kursplanen
