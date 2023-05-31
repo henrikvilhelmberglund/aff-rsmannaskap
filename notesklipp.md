@@ -136,3 +136,92 @@ du blir en otroligt eftertraktad medarbetare (om man kan samtalsstrukturen, är 
 
 affärer och sälj
 
+man vill inte riktigt identifiera sig som säljare, men man gör det när man t.ex säljer in projekt
+
+målformulering och grunder i målstyrning
+
+### målstyrning
+
+ett disciplinerat sätt att planera och hantera dina insatser och aktiviteter
+
+det ska inte vara tur som avgör om/hur vi når våra mål
+
+vi har i anställningen ett uppdrag, vi behöver ha en dialog god tid innan om saker behöver revideras
+
+alla företag använder målstyrning
+
+här LIAtänk
+
+har du en strategi för dig och din karriär? vill du chansa eller ta eget ansvar för att öka sannolikheten att du når dina mål? vill du spela på en fotbollsplan utan mål?
+
+målstyrning innebär att du jobbar med tre delar:
+
+- mål/resultat
+
+- insatser/aktiviteter (vad behöver jag göra för att faktiskt nå mina mål?)
+
+- resurs/stöd (kanske behöver hjälp/stöd?)
+
+undvik management by hope, istället skapa bästa förutsättningarna
+
+### mål
+
+det behöver vara glasklart (SMART formulerat):
+
+- Specifikt
+
+- Mätbart
+
+- Accepterat (missas i många organisationer)
+
+- Realistiskt
+
+- Tidsatt (när ska jag ha...)
+
+### vad är det jag behöver göra för att nå mina mål?
+
+- kvantitet (hur många insatser krävs?)
+
+- kvalitet (hur väl förberedd behöver du vara?)
+
+- inriktning (vart ska du rikta dina insatser för att öka sannolikheten att de blir framgångsrika?)
+
+fokusera på att jobba rätt, allokera resurser rätt
+
+### resurser/stöd
+
+fundera över följande tre:
+
+- kunskaper (har du de kunskaper som krävs för att genomföra insatsen?)
+
+- färdigheter (har du tränat så att du inte bara vet hur uppgiften ska genomföras utan du behärskar även utförandet av kunskapen?)
+
+- attityd (vad har du för tankar/känslor kopplat till aktiviteten som ska genomföras? din attityd är avgörande för ett gott resultat!)
+
+vad är det för stöd och resurser jag behöver för att ge bästa möjliga tillbaka?
+
+ha denna dialog med handledaren
+
+vad har jag för attityd? vad tycker jag är jobbigt? vad tycker jag är kul?
+
+säkerställ att du jobbar med alla delar: tanke, känsla, resultat
+
+### din personliga målbild
+
+hur ser din livsvision ut?
+
+vad har du gjort för affärsplan för att nå dit? den här utbildningen är sannolikt en del av din personliga affärsplan
+
+koppla dessa tankar till din personliga målbild, använd funderingarna när du kommer ut på LIA
+
+om du har förmågan att kommunicera målstyrning med din handledare kommer det imponera
+
+"vilka förväntningar har ni på mig? vad vill ni att jag ska uppnå under den här LIAn?"
+
+"vilka insatser och aktiviteter och vad vill ni att jag ska göra och fokusera på för att kunna nå de här målen?"
+
+vilka är mina styrkor/utvecklingsområden, vad för stöd skulle jag behöva för göra det här på bästa sätt?
+
+"hur ska vi hantera våra avstämningar för att jag ska ha bästa förutsättningar för att lyckas?"
+
+alla chefer/företagsledare vill se detta hos alla medarbetare: förmågan att sätta upp mål, tydliggöra våra ömsesidiga förväntningar på varandra och att på ett disciplinerat sätt styra vägen mot mål
