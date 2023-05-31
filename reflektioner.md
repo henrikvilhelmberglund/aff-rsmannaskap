@@ -4,7 +4,6 @@
 
 För mig var det mest intressanta den så kallade "respektrutan" där man har en XY-grid med "jag är inte okej, jag är okej" och "du är inte okej, du är okej".
 
-
 | Jag är inte okej, du är okej       | Jag är okej, du är okej       |
 | ---------------------------------  | ----------------------------- |
 | Jag är inte okej, du är inte okej  | Jag är okej, du är inte okej  |
@@ -15,3 +14,36 @@ Detta skulle vara användbart på t.ex en LIA där man behöver kommunicera med 
 
 ## Samtalsstruktur
 
+Klippet om samtalsstruktur gav mer detaljerade riktlinjer för hur man kan ha givande kommunikation.
+
+- Förberedelse
+
+- Kontaktfasen (första intrycket)
+
+- Ta info (behovsanalys, frågemetodik, tror jag eller vet jag?)
+
+- Ge info (argumentationsfas, undvik argumentinflation, anpassa dina svar)
+
+- Avslut (beslut, hur går vi vidare? vem gör vad? vad har vi beslutat? hur upplevdes mötet?)
+
+- Uppföljning
+
+Denna struktur skulle kunna vara användbar under t.ex en intervju om LIA där man delar upp mötet i mindre delar, bland annat där man tar info (ställer frågor om företaget), ger info om sig själv (svarar på intervjuarens frågor) och ett avslut där man stämmer av hur man går vidare och vad som kommer att hända.
+
+Hon nämnde att det är viktigt att förbereda sig så man kan ställa bra frågor och ge bra svar, använda öppna frågeord för att visa nyfikenhet och intresse och att ge relevanta svar till frågor man ställs och säga saker som "besvarade det frågan?" för att vara säker att man blev förstådd. Om man följer detta blir det ett bättre möte och antagligen också ett bättre resultat i sin intervju eller annat möte.
+
+## Målstyrning
+
+Det jag tyckte mest var intressant var att mål ska vara SMART:
+
+- Specifikt
+
+- Mätbart
+
+- Accepterat
+
+- Realistiskt
+
+- Tidsatt
+
+Jag tror att dessa riktlinjer kan vara bra inte bara inom kommunikationen utan också när man arbetar agilt och lägger upp sina tasks som ska genomföras. De ska helst vara små (realistiska) och specifika och mätbara så att man vet när ett task faktiskt är klart. Vi har arbetat agilt under kursen Frontendprojekt men kommer säkert arbeta på det sättet igen under våra LIOr så jag tyckte SMART var ett enkelt sätt att komma ihåg hur man sätter upp generella mål men även hur man ska utforma sina tasks när man arbetar agilt.
